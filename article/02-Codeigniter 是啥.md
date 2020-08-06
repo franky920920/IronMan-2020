@@ -1,9 +1,8 @@
-#[Day 2] Codeigniter 是啥?
+# [Day 2] Codeigniter 是啥?
 
 Codeigniter是一個PHP框架 (framework) ，為簡化開發流程及統一Coding Style而生
 
 **基礎：MVC**
-
 ```
      MVC
      ↓↓
